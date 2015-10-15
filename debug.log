@@ -1,0 +1,16 @@
+***************************************************************
+Name:                  myDownLoad
+Version:               1.0
+Author:                zhaoshuang@ipanel.cn
+Description:           check and download the resource you want
+
+*********************** Running begin *************************
+INFO:
+ Input the path and extendName what you will download, then will download all files to the dest Automatically!!!
+Example:
+DownLoad Source Path:E:\dirtest,DownLoad Dest Path E:\savePath
+
+[10-15 10:51][DEBUG][downLoadWeb] downloading Web: 'http://blog.163.com/photo.html'......
+
+[10-15 10:51][DEBUG][downLoadWeb] current thread: <MyThread(Thread-1, started daemon 2652)>
+
